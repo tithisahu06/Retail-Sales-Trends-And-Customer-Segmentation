@@ -7,6 +7,7 @@ Live Streamlit Dashboard: https://retail-sales-trends-and-customer-segmentation-
 
 
 Dataset: UCI Online Retail Dataset (https://archive.ics.uci.edu/datasets?search=Online+Retail)
+
 ---
 
 ## Key Features
