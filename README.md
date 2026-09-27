@@ -1,7 +1,10 @@
-# 🛍️ Retail Sales Analytics & Customer Segmentation Dashboard
+#  Retail Sales Analytics & Customer Segmentation Dashboard
 
 An interactive Data Mining & Data Warehousing (DMDW) case study dashboard built with **Python** and **Streamlit**. This application analyzes transactional e-commerce data from the UCI Online Retail dataset to reveal sales trends, top-performing products, and customer segments using **RFM Analysis** combined with **K-Means Clustering**.
 
+# Project Links
+Live Streamlit Dashboard: https://retail-sales-trends-and-customer-segmentation-pvvp7eksfftvprtk.streamlit.app/
+Dataset: UCI Online Retail Dataset (https://archive.ics.uci.edu/datasets?search=Online+Retail)
 ---
 
 ## Key Features
