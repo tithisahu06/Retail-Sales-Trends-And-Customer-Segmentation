@@ -4,6 +4,8 @@ An interactive Data Mining & Data Warehousing (DMDW) case study dashboard built 
 
 # Project Links
 Live Streamlit Dashboard: https://retail-sales-trends-and-customer-segmentation-pvvp7eksfftvprtk.streamlit.app/
+
+
 Dataset: UCI Online Retail Dataset (https://archive.ics.uci.edu/datasets?search=Online+Retail)
 ---
 
@@ -22,7 +24,7 @@ Dataset: UCI Online Retail Dataset (https://archive.ics.uci.edu/datasets?search=
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend & App Framework:** [Streamlit](https://streamlit.io/)
 - **Data Manipulation:** `pandas`, `numpy`
@@ -32,7 +34,7 @@ Dataset: UCI Online Retail Dataset (https://archive.ics.uci.edu/datasets?search=
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Prerequisites
 Ensure you have Python 3.8+ installed on your system.
